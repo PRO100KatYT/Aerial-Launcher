@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "Destrucción diaria (máquinas de videojuegos)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "Máquinas de videojuegos destruidas",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "Destrucción diaria (ositos de peluche)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "Ositos de peluche destruidos",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "Destrucción diaria (camiones de bomberos)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "Camión de bomberos destruido",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "Destrucción diaria (gnomos de jardín)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "Gnomos de jardín destruidos",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "Destrucción diaria (tanques de propano)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "Tanques de propano destruidos",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "Destrucción diaria (sube y baja)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "Sube y bajas destruidos",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "Destrucción diaria (estantes de servidores)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "Estantes de servidores destruidos",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "Destrucción diaria (transformadores)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "Transformadores de energía industriales destruidos",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "Destrucción diaria (televisores)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "Televisores destruidos",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "Exploración de construcción industrial diaria",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "Ubicación de la construcción descubierta",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "Exploración rural diaria ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "Ubicación rural descubierta",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "Exploración de refugios diaria",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "Ubicación del refugio descubierta",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "Exploración de suburbios diaria",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "Ubicación suburbana descubierta",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "Exploración de ciudades diaria",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "Ubicación de la ciudad descubierta",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "Equipo de exploración",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "Zonas exploradas",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "Ahora todos juntos",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "Sobrevivientes salvados",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "Exterminación de descerebrados (cualquier héroe)",
+    "objectives": {
+      "kill_husk": {
+        "name": "Descerebrados eliminados",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "Exterminación de descerebrados (constructor)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "Descerebrados eliminados como constructor",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "Exterminación de descerebrados (arma cuerpo a cuerpo)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "Descerebrados eliminados con armas cuerpo a cuerpo",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "Exterminación de descerebrados (ninja)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "Descerebrados eliminados como ninja",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "Exterminación de descerebrados (forastero)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "Descerebrados eliminados como forastero",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "Exterminación de descerebrados (rifle de asalto)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "Descerebrados eliminados con rifles de asalto",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "Exterminación de descerebrados (pistola)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "Descerebrados eliminados con pistolas",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "Exterminación de descerebrados (escopeta)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "Descerebrados eliminados con escopetas",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "Exterminación de descerebrados (subfusil)",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "Descerebrados eliminados con un subfusil",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "Exterminación de descerebrados (rifle de francotirador)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "Descerebrados eliminados con rifles de francotirador",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "Exterminación de descerebrados (soldado)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "Descerebrados eliminados como soldado",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "Exterminación de descerebrados (trampa)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "Descerebrados eliminados con trampas",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "Construye la torre de radar",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "Torres de radar construidas",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "Especialista de misión (cualquier héroe)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Misiones completadas",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "Veterano de misión (cualquier héroe)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Misiones completadas",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "Especialista de misión (constructor)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "Misión completada como constructor",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "Especialista de misión (ninja)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "Misiones completadas como ninja",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "Especialista de misión (forastero)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "Misiones completadas como forastero",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "Especialista de misión (soldado)",
+    "objectives": {
+      "complete_commando": {
+        "name": "Misiones completadas como soldado",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "Grupo de 25",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "Sobrevivientes salvados",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "Sin riesgos",
+    "objectives": {
+      "interact_safe": {
+        "name": "Cajas fuertes saqueadas",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "Tesoros perdidos",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "Cofres de tesoro saqueados",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}

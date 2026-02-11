@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "Ежедневный погром (игровые автоматы)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "Уничтожьте игровые автоматы",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "Ежедневный погром (плюшевые медведи)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "Уничтожьте плюшевых медведей",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "Ежедневный погром (пожарные машины)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "Уничтожьте пожарные машины",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "Ежедневный погром (садовые гномы)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "Уничтожьте садовых гномов",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "Ежедневный погром (баллоны с пропаном)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "Уничтожьте баллоны с пропаном",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "Ежедневный погром (парковые качели)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "Уничтожьте парковые качели",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "Ежедневный погром (серверные стойки)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "Уничтожьте серверные стойки",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "Ежедневный погром (трансформаторы)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "Уничтожьте промышленные трансформаторы",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "Ежедневный погром (телевизоры)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "Уничтожьте телевизоры",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "Ежедневная разведка: промышленные стройки",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "Стройплощадка обнаружена",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "Ежедневная разведка: сельская местность ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "Сельская постройка обнаружена",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "Ежедневная разведка: убежища",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "Убежище обнаружено",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "Ежедневная разведка: пригород",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "Пригородная постройка обнаружена",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "Ежедневная разведка: города",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "Городская постройка обнаружена",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "Исследовательский отряд",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "Исследуйте зоны",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "А теперь все вместе!",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "Спасите выживших",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "Истребление мозгляков (любой герой)",
+    "objectives": {
+      "kill_husk": {
+        "name": "Мозгляки уничтожены",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "Истребление мозгляков (конструктор)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "Мозгляки уничтожены при игре за конструктора",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "Истребление мозгляков (холодное оружие)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "Уничтожьте мозгляков холодным оружием",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "Истребление мозгляков (ниндзя)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "Мозгляки уничтожены при игре за ниндзя",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "Истребление мозгляков (путешественник)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "Уничтожьте мозгляков, играя за путешественника",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "Истребление мозгляков (автомат)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "Уничтожьте мозгляков из автомата",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "Истребление мозгляков (пистолет)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "Мозгляки уничтожены из пистолета",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "Истребление мозгляков (дробовик)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "Мозгляки уничтожены из дробовика",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "Истребление мозгляков (пистолет-пулемёт)",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "Уничтожьте мозгляков из пистолета-пулемёта",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "Истребление мозгляков (снайперская винтовка)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "Уничтожьте мозгляков из снайперской винтовки",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "Истребление мозгляков (солдат)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "Уничтожьте мозгляков, играя за солдата",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "Истребление мозгляков (ловушки)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "Уничтожьте мозгляков с помощью ловушек",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "Постройте радарную вышку",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "Построенные радарные вышки",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "Миссия выполнима (любой герой)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Выполните миссии",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "Любая миссия выполнима (любой герой)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Выполните миссии",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "Миссия выполнима (конструктор)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "Выполните миссию за конструктора",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "Миссия выполнима (ниндзя)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "Выполните миссию за ниндзя",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "Миссия выполнима (путешественник)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "Выполните миссию за путешественника",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "Миссия выполнима (солдат)",
+    "objectives": {
+      "complete_commando": {
+        "name": "Выполните миссию за солдата",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "25 друзей командира",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "Спасите выживших",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "Надёжное место",
+    "objectives": {
+      "interact_safe": {
+        "name": "Опустошите сейфы",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "Потерянные сокровища",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "Сокровища добыты",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}

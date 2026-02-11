@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "Daily Destroy (Arcade Machines)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "Arcade Machines destroyed",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "Daily Destroy (Teddy Bears)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "Teddy Bears destroyed",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "Daily Destroy (Fire Trucks)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "Fire Truck destroyed",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "Daily Destroy (Garden Gnomes)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "Garden Gnomes destroyed",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "Daily Destroy (Propane Tanks)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "Propane Tanks destroyed",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "Daily Destroy (Park Seesaws)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "Park Seesaws destroyed",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "Daily Destroy (Server Racks)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "Server Racks destroyed",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "Daily Destroy (Transformers)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "Industrial Power Transformers destroyed",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "Daily Destroy (TVs)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "TVs destroyed",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "Daily Scouting Industrial Construction",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "Construction Location Discovered",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "Daily Scouting Rural ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "Rural Location Discovered",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "Daily Scouting Shelters",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "Shelter Location Discovered",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "Daily Scouting Suburbia",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "Suburban Location Discovered",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "Daily Scouting Cities",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "City Location Discovered",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "Exploration Party",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "Zones explored",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "All Together Now",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "Survivors saved",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "Husk Extermination (Any Hero)",
+    "objectives": {
+      "kill_husk": {
+        "name": "Husks eliminated",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "Husk Extermination (Constructor)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "Husks eliminated as a Constructor",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "Husk Extermination (Melee)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "Husks eliminated with a melee weapon",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "Husk Extermination (Ninja)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "Husk eliminated as a Ninja",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "Husk Extermination (Outlander)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "Husks eliminated as an Outlander",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "Husk Extermination (Assault Rifle)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "Husks eliminated with an assault rifle",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "Husk Extermination (Pistol)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "Husks eliminated with a pistol",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "Husk Extermination (Shotgun)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "Husks eliminated with a shotgun",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "Husk Extermination (SMG)",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "Husks eliminated with an SMG",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "Husk Extermination (Sniper Rifle)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "Husks eliminated with a sniper rifle",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "Husk Extermination (Soldier)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "Husks eliminated as a Soldier",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "Husk Extermination (Trap)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "Husks eliminated with traps",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "Build the Radar Tower",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "Radar Towers built",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "Mission Specialist (Any Hero)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Missions completed",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "Mission Veteran (Any Hero)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Missions completed",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "Mission Specialist (Constructor)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "Mission completed as a Constructor",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "Mission Specialist (Ninja)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "Missions completed as a Ninja",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "Mission Specialist (Outlander)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "Missions completed as an Outlander",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "Mission Specialist (Soldier)",
+    "objectives": {
+      "complete_commando": {
+        "name": "Missions completed as a Soldier",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "Party of 25",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "Survivors saved",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "Playing It Safe",
+    "objectives": {
+      "interact_safe": {
+        "name": "Safes looted",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "Lost Treasures",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "Treasure chests looted",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}

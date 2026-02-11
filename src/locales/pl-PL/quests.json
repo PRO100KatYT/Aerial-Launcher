@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "Demolka dnia (automaty do gier)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "Automaty do gier zniszczone",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "Demolka dnia (pluszowe misie)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "Pluszowe misie zlikwidowane",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "Dzienne przedmioty do zniszczenia (wozy strażackie)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "Wóz strażacki zniszczony",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "Demolka dnia (gnomy ogrodowe)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "Zniszczone gnomy ogrodowe",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "Demolka dnia (butle z gazem)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "Zniszczone butle z gazem",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "Demolka dnia (huśtawki w parku)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "Huśtawki zniszczone",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "Demolka dnia (szafy serwerowe)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "Szafy serwerowe zniszczone",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "Dzienne przedmioty do zniszczenia (transformatory)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "Przemysłowe transformatory zniszczone",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "Demolka dnia (telewizory)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "Telewizory zniszczone",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "Codzienny zwiad - budowy przemysłowe",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "Odnaleziono plac budowy",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "Codzienny zwiad - wieś ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "Odnaleziono miejsce na wsi",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "Codzienny zwiad - schrony",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "Odkryto położenie schronu",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "Codzienny zwiad - przedmieścia",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "Odnaleziono miejsce na przedmieściu",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "Codzienny zwiad - miasta",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "Odnaleziono miejsce w mieście",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "Grupa badawcza",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "Strefy odkryte",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "Wszyscy razem",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "Ocaleńcy uratowani",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "Eksterminacja pustaków (dowolny bohater)",
+    "objectives": {
+      "kill_husk": {
+        "name": "Pustaki zlikwidowane",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "Tępienie pustaków (Budowniczy)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "Pustaki zlikwidowane jako Budowniczy",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "Tępienie pustaków (broń biała)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "Pustaki zlikwidowane bronią białą",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "Tępienie pustaków (Ninja)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "Pustaki zlikwidowane jako Ninja",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "Tępienie pustaków (Rubieżnik)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "Pustaki zlikwidowane jako Rubieżnik",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "Tępienie pustaków (karabin szturmowy)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "Pustaki zlikwidowane z karabinu szturmowego",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "Tępienie pustaków (pistolet)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "Pustaki zlikwidowane z pistoletu",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "Tępienie pustaków (strzelba)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "Pustaki zlikwidowane ze strzelby",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "Tępienie pustaków (pistolet maszynowy)",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "Pustaki zlikwidowane z pistoletu maszynowego",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "Tępienie pustaków (karabin snajperski)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "Pustaki zlikwidowane z karabinu snajperskiego",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "Tępienie pustaków (Żołnierz)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "Pustaki zlikwidowane jako Żołnierz",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "Tępienie pustaków (pułapki)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "Pustaki zlikwidowane przy użyciu pułapek",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "Zbuduj wieżę radarową",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "Wieże radarowe zbudowane",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "Specjalista od misji (dowolny bohater)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Ukończone misje",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "Weteran od misji (dowolny bohater)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Ukończone misje",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "Specjalista w misji (Budowniczy)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "Misje ukończone jako Budowniczy",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "Specjalista w misji (Ninja)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "Misje ukończone jako Ninja",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "Specjalista w misji (Rubieżnik)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "Misje ukończone jako Rubieżnik",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "Specjalista w misji (Żołnierz)",
+    "objectives": {
+      "complete_commando": {
+        "name": "Misje ukończone jako Żołnierz",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "Grupa 25 osób",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "Ocaleńcy uratowani",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "Jak w banku",
+    "objectives": {
+      "interact_safe": {
+        "name": "Sejfy złupione",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "Stracone skarby",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "Złupione skrzynie ze skarbami",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}

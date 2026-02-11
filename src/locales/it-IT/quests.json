@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "Distruzione quotidiana (postazioni arcade)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "Postazioni arcade distrutte",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "Distruzione quotidiana (orsacchiotti)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "Orsacchiotti distrutti",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "Distruzione quotidiana (camion dei pompieri)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "Camion dei pompieri distrutto",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "Distruzione quotidiana (gnomi da giardino)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "Gnomi da giardino distrutti",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "Distruzione quotidiana (taniche di propano)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "Bombole di propano distrutte",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "Distruzione quotidiana (altalene da parco)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "Altalene da parco distrutte",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "Distruzione quotidiana (rack di server)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "Rack di server distrutti",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "Distruzione quotidiana (trasformatori)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "Trasformatori industriali distrutti",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "Distruzione quotidiana (TV)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "TV distrutte",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "Ricognizione giornaliera: costruzioni industriali",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "Luogo di costruzione scoperto",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "Ricognizione giornaliera: rurale ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "Luogo rurale scoperto",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "Ricognizione giornaliera: rifugi",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "Posizioni rifugi scoperte",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "Ricognizione giornaliera: periferia",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "Luogo periferia scoperto",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "Ricognizione giornaliera: città",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "Luogo città scoperto",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "Gruppo di esplorazione",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "Zone esplorate",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "Tutti insieme appassionatamente",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "Superstiti salvati",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "Sterminio di Abietti (qualsiasi eroe)",
+    "objectives": {
+      "kill_husk": {
+        "name": "Abietti eliminati",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "Sterminio di Abietti (Costruttore)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "Abietti eliminati come Costruttore",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "Sterminio di Abietti (Mischia)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "Abietti eliminati con un'arma da mischia",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "Sterminio di Abietti (Ninja)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "Abietti eliminati come Ninja",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "Sterminio di Abietti (Straniero)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "Abietti eliminati come Straniero",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "Sterminio di Abietti (Fucile d'assalto)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "Abietti eliminati con un fucile d'assalto",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "Sterminio di Abietti (Pistola)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "Abietti eliminati con una pistola",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "Sterminio di Abietti (fucile pesante)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "Abietti eliminati con un fucile pesante",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "Sterminio di Abietti (mitraglietta)",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "Abietti eliminati con una mitraglietta",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "Sterminio di Abietti (Fucile di precisione)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "Abietti eliminati con un fucile di precisione",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "Sterminio di Abietti (Soldato)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "Abietti eliminati come Soldato",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "Sterminio di Abietti (Trappola)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "Abietti eliminati con trappole",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "Costruisci la torre radar",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "Torri radar costruite",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "Specialista di missione (qualsiasi eroe)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Missioni completate",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "Veterano della missione (qualsiasi eroe)",
+    "objectives": {
+      "complete_primary": {
+        "name": "Missioni completate",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "Specialista di missione (Costruttore)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "Missioni completate come Costruttore",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "Specialista di missione (Ninja)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "Missioni completate come Ninja",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "Specialista di missione (Straniero)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "Missioni completate come Straniero",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "Specialista di missione (Soldato)",
+    "objectives": {
+      "complete_commando": {
+        "name": "Missioni completate come Soldato",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "Quella sporca venticinquina",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "Superstiti salvati",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "Senza correre rischi",
+    "objectives": {
+      "interact_safe": {
+        "name": "Casseforti saccheggiate",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "Tesori perduti",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "Forzieri del tesoro saccheggiati",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}

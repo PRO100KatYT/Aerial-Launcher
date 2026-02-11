@@ -1,0 +1,496 @@
+{
+  "Quest:daily_destroyarcademachines": {
+    "name": "每日摧毁(街机)",
+    "objectives": {
+      "quest_reactive_destroyarcade_v4": {
+        "name": "街机已摧毁",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroybears": {
+    "name": "每日摧毁(泰迪熊)",
+    "objectives": {
+      "quest_reactive_destroybear_v3": {
+        "name": "泰迪熊已摧毁",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyfiretrucks": {
+    "name": "每日摧毁(消防车)",
+    "objectives": {
+      "quest_reactive_destroyfiretruck_v2": {
+        "name": "救火车已摧毁",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroygnomes": {
+    "name": "每日摧毁(花园地精)",
+    "objectives": {
+      "quest_reactive_destroygnome_v2": {
+        "name": "花园地精被摧毁",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroypropanetanks": {
+    "name": "每日摧毁(丙烷罐)",
+    "objectives": {
+      "quest_reactive_destroypropane_v2": {
+        "name": "丙烷罐已破坏",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyseesaws": {
+    "name": "每日摧毁(公园跷跷板)",
+    "objectives": {
+      "quest_reactive_destroyseesaw_v3": {
+        "name": "已摧毁公园跷跷板",
+        "count": 6
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroyserverracks": {
+    "name": "每日摧毁(服务器机架)",
+    "objectives": {
+      "quest_reactive_destroyserverrack_v2": {
+        "name": "服务器机架已破坏",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytransformers": {
+    "name": "每日摧毁(电力变压器)",
+    "objectives": {
+      "quest_reactive_destroytransform_v3": {
+        "name": "已摧毁工业电力变压器",
+        "count": 2
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_destroytvs": {
+    "name": "每日摧毁(电视)",
+    "objectives": {
+      "quest_reactive_destroytv_v2": {
+        "name": "TV已摧毁",
+        "count": 20
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_industriallocations": {
+    "name": "日常侦查工业建筑",
+    "objectives": {
+      "quest_reactive_discoverconstruction_v2": {
+        "name": "已发现建筑物位置",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_rurallocations": {
+    "name": "日常侦查农村 ",
+    "objectives": {
+      "quest_reactive_discoverruinedhouses_v2": {
+        "name": "农村位置发现",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_shelters": {
+    "name": "日常侦查避难所",
+    "objectives": {
+      "quest_reactive_discovershelter_v2": {
+        "name": "已发现避难所位置",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_suburbanlocations": {
+    "name": "日常侦查郊区",
+    "objectives": {
+      "quest_reactive_discoverfastfood_v2": {
+        "name": "郊区位置发现",
+        "count": 10
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_discovery_urbanlocations": {
+    "name": "日常侦查城市",
+    "objectives": {
+      "quest_reactive_discoveremergencybuildings_v2": {
+        "name": "已发现城市位置",
+        "count": 8
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_explorezones": {
+    "name": "探险队",
+    "objectives": {
+      "complete_exploration_1": {
+        "name": "已探索的区域",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_high_priority": {
+    "name": "同心协力",
+    "objectives": {
+      "questcollect_survivoritemdata": {
+        "name": "幸存者已营救",
+        "count": 50
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_anyhero": {
+    "name": "毒尸怪灭绝(任意英雄)",
+    "objectives": {
+      "kill_husk": {
+        "name": "已淘汰毒尸怪",
+        "count": 500
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_constructor": {
+    "name": "毒尸怪灭绝(建筑师)",
+    "objectives": {
+      "kill_husk_constructor_v2": {
+        "name": "使用建筑师消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_melee": {
+    "name": "毒尸怪灭绝(近战)",
+    "objectives": {
+      "kill_husk_melee": {
+        "name": "用近战武器消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ninja": {
+    "name": "毒尸怪灭绝(忍者)",
+    "objectives": {
+      "kill_husk_ninja_v2": {
+        "name": "作为忍者已消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_outlander": {
+    "name": "毒尸怪灭绝(漂泊者)",
+    "objectives": {
+      "kill_husk_outlander_v2": {
+        "name": "作为漂泊者消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_assault": {
+    "name": "毒尸怪灭绝(突击步枪)",
+    "objectives": {
+      "kill_husk_assault": {
+        "name": "用突击步枪消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_pistol": {
+    "name": "毒尸怪灭绝(手枪)",
+    "objectives": {
+      "kill_husk_pistol": {
+        "name": "使用手枪消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_shotgun": {
+    "name": "毒尸怪灭绝(霰弹枪)",
+    "objectives": {
+      "kill_husk_shotgun": {
+        "name": "使用霰弹枪消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_smg": {
+    "name": "毒尸终结者（冲锋枪）",
+    "objectives": {
+      "kill_husk_smg": {
+        "name": "用冲锋枪淘汰的毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_ranged_sniper": {
+    "name": "毒尸怪灭绝(狙击枪)",
+    "objectives": {
+      "kill_husk_sniper": {
+        "name": "使用狙击步枪消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_soldier": {
+    "name": "毒尸怪灭绝(士兵)",
+    "objectives": {
+      "kill_husk_commando_v2": {
+        "name": "作为士兵消灭毒尸怪",
+        "count": 300
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_huskextermination_trap": {
+    "name": "毒尸怪灭绝(陷阱)",
+    "objectives": {
+      "kill_husk_trap": {
+        "name": "使用陷阱击破毒尸怪",
+        "count": 150
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_buildradar": {
+    "name": "建造雷达塔",
+    "objectives": {
+      "complete_buildradar_1_diff2": {
+        "name": "雷达塔已建造",
+        "count": 4
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_1": {
+    "name": "任务专家（任意英雄）",
+    "objectives": {
+      "complete_primary": {
+        "name": "任务完成",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_anyhero_2": {
+    "name": "任务老兵（任意英雄）",
+    "objectives": {
+      "complete_primary": {
+        "name": "任务完成",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 150,
+      "AccountResource:eventcurrency_scaling": 410
+    }
+  },
+  "Quest:daily_mission_specialist_constructor": {
+    "name": "任务专家(建筑师)",
+    "objectives": {
+      "complete_constructor": {
+        "name": "使用建筑师完成任务",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_ninja": {
+    "name": "任务专家(忍者)",
+    "objectives": {
+      "complete_ninja": {
+        "name": "使用忍者完成任务",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_outlander": {
+    "name": "任务专家(漂泊者)",
+    "objectives": {
+      "complete_outlander": {
+        "name": "使用漂泊者完成任务",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_mission_specialist_soldier": {
+    "name": "任务专家(士兵)",
+    "objectives": {
+      "complete_commando": {
+        "name": "使用士兵完成任务",
+        "count": 3
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_partyof50": {
+    "name": "25人队伍",
+    "objectives": {
+      "daily_partyof50": {
+        "name": "幸存者已营救",
+        "count": 25
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_safes": {
+    "name": "小心行事",
+    "objectives": {
+      "interact_safe": {
+        "name": "保险箱已拾取",
+        "count": 1
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  },
+  "Quest:daily_treasurechests": {
+    "name": "失落的宝藏",
+    "objectives": {
+      "interact_treasurechest": {
+        "name": "财宝箱已搜刮",
+        "count": 5
+      }
+    },
+    "rewards": {
+      "ConditionalResource:currency_mtxswap": 100,
+      "AccountResource:eventcurrency_scaling": 250
+    }
+  }
+}
